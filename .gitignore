@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+sumac-rec
+
 # C extensions
 *.so
 
